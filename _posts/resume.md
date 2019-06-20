@@ -1,4 +1,7 @@
-# 谢谢您浏览温豪(Howard)的简历
+---
+layout: post
+title: 谢谢您浏览温豪(Howard)的简历
+---
 
 ## 联系方式
 
