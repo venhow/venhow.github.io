@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+who this guy venhow?
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+参差多态乃是幸福的本源
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[venhow@gmail.com](mailto:venhow@gmail.com)
